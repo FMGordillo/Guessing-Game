@@ -1,0 +1,16 @@
+{
+  "name": "guessing_game",
+  "version": "1.0.0",
+  "description": "A simple guessing game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "guessing",
+    "game"
+  ],
+  "author": "Facundo Martin Gordillo<facundomgordillo@gmail.com>",
+  "license": "ISC"
+}
